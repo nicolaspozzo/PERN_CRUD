@@ -1,2 +1,2 @@
 # PERN_CRUD
-This project is a task list using PERN stack
+This project is a crud of task using PERN stack
